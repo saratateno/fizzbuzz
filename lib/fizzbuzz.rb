@@ -1,3 +1,2 @@
 class Fizzbuzz
 end
-end
